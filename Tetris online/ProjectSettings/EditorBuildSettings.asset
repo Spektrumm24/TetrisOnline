@@ -6,6 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Cargando.unity
+    guid: e6c3ed3153a1d974ebb95db2ceed4212
+  - enabled: 1
+    path: Assets/Scenes/Lobby.unity
+    guid: 3b24e84502a87db4abb3699f3d814d83
+  - enabled: 1
     path: Assets/Scenes/Tetris.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   m_configObjects: {}
