@@ -45,6 +45,7 @@ public class Piece : MonoBehaviour
     {
         this.board.Clear(this);
         this.lockTime += Time.deltaTime;
+        
         if (view.IsMine)
         {
             ManageInputs();
